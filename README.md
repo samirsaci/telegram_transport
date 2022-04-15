@@ -1,8 +1,14 @@
 ## Build a Real-Time Shipment Tracking Tool using a Telegram Bot 🚚
 *Design a Telegram Bot that will interact with truck drivers to track your shipments and provide real-time visibility of your transportation performance*
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3), we will implement a simple, cheap and easy-to-implement solution to track your shipments that
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=VQNil1uR1js"><img src="https://github.com/samirsaci/lss-chi-squared/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
+</div>
+
+### Article
+In this [Article](https://www.samirsaci.com/build-a-shipment-tracking-tool-using-a-telegram-bot/), we will implement a simple, cheap and easy-to-implement solution to track your shipments that
 - Does not require additional IT development for your carriers
 - Easily integrates into the current transportation processes
 - Reduces admin workload for your logistics team
