@@ -4,7 +4,7 @@
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=VQNil1uR1js"><img src="https://github.com/samirsaci/lss-chi-squared/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=VQNil1uR1js"><img src="https://github.com/samirsaci/telegram_transport/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
 ### Article
