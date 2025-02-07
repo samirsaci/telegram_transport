@@ -8,7 +8,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3), we will implement a simple, cheap and easy-to-implement solution to track your shipments that
+In this [Article](https://medium.com/towards-data-science/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3), we will implement a simple, cheap and easy-to-implement solution to track your shipments that
 - Does not require additional IT development for your carriers
 - Easily integrates into the current transportation processes
 - Reduces admin workload for your logistics team
